@@ -26,7 +26,7 @@
 
 ![This is an Image](/Images/img5.jpeg)
 
-<h3>3. After clicking the button the and open the image</h3>
+<h3>3. After clicking the button than it will open the image on drag area</h3>
 
 ![This is an Image](/Images/img4.jpeg)
 
